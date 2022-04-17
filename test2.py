@@ -8,3 +8,4 @@ print(a + b + c + d)
 # checking with another terminal
 # checking in reverse direction
 # checking using cmd
+# waka waka
